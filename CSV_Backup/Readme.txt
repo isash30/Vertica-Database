@@ -1,0 +1,1 @@
+This script provides an option to do csv backup of Vertica Tables out side of the regular backup. This can be handy for backing up individual tables and restoring them for test or development or even for point in time recovery.
