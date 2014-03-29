@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import pyodbc
-import datetime
 import time
 
 
